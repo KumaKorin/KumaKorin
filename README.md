@@ -1,4 +1,4 @@
-![count](https://count.rulmiao.cn/get/@github_profile?theme=rule34")
+<img src="https://count.rulmiao.cn/get/@github_profile?theme=rule34" />
 
 
 ### There is KumaKorin👋!
