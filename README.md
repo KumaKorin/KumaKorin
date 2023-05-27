@@ -20,3 +20,4 @@
 ---
 
 Counter powered by [Moe-counter](https://github.com/journey-ad/Moe-counter)
+![COUNT](https://api.miaomc.cn/count/count_core?aid=korin_no_github)
