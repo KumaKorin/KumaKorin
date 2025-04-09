@@ -4,7 +4,6 @@
 ### There is KumaKorin👋!
 
 - 🖥It's OTAKU
-- 🏫Senior high school student
 - 🌟Always have new ideas
 - 🕹Owner of MIAOMC Minecraft server
 - 🎥Video maker
