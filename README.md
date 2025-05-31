@@ -9,6 +9,8 @@
 - 🎥Video maker
 - 👩‍💻Interested in programming
 
+
+currently play around with Next.js
 ---
 
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9796f2?style=flat-square&logo=adobe%20after%20effects&logoColor=white) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-3383b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
