@@ -1,6 +1,5 @@
 <img src="https://count.getloli.com/get/@github-profile-kumakorin" />
 
-
 ### There is KumaKorin👋!
 
 - 🖥It's OTAKU
@@ -9,8 +8,7 @@
 - 🎥Video maker
 - 👩‍💻Interested in programming
 
-
-currently play around with Next.js
+Personal website: [KumaKorin](https://korin.im)
 
 ---
 
@@ -18,7 +16,7 @@ currently play around with Next.js
   
 ![OS](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff) ![OS](https://img.shields.io/badge/OS-Rocky-10B981?style=flat-square&logo=rockylinux&logoColor=ffffff) ![Phone](https://img.shields.io/badge/XiaoMi-Mi%2014%20Pro-e96518?style=flat-square&logo=xiaomi&logoColor=ffffff)
   
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-149cd5?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-687cb0?style=flat-square&logo=PHP&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-0e84ce?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![GoLang](https://img.shields.io/badge/-Golang-05a6dc?style=flat-square&logo=GO&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-687cb0?style=flat-square&logo=PHP&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-0e84ce?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=000000) ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix.js-000000?style=flat-square&logo=remix&logoColor=white) ![ReactRouter](https://img.shields.io/badge/-ReactRouter-CA4245?style=flat-square&logo=reactrouter&logoColor=white) ![GoLang](https://img.shields.io/badge/-Golang-05a6dc?style=flat-square&logo=GO&logoColor=white)
 
 
 
