@@ -12,6 +12,8 @@ Personal website: [KumaKorin](https://korin.im)
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/fa888f86-707d-47cf-bf11-ecdabdec6b74.svg)](https://wakatime.com/@fa888f86-707d-47cf-bf11-ecdabdec6b74)
+
 ![After Effects](https://img.shields.io/badge/-After%20Effects-9796f2?style=flat-square&logo=adobe%20after%20effects&logoColor=white) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-3383b8?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white) ![IDEA](https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
   
 ![OS](https://img.shields.io/badge/OS-Windows-33aadd?style=flat-square&logo=windows&logoColor=ffffff) ![OS](https://img.shields.io/badge/OS-Rocky-10B981?style=flat-square&logo=rockylinux&logoColor=ffffff) ![Phone](https://img.shields.io/badge/XiaoMi-Mi%2014%20Pro-e96518?style=flat-square&logo=xiaomi&logoColor=ffffff)
